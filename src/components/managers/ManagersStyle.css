@@ -1,0 +1,79 @@
+.managers{
+    margin: 50px;
+}
+
+.director , .people, .production, .service{
+    position: relative;
+}
+
+.assistant{
+    display: flex;
+    align-items: center;
+}
+
+.assistantIcon{
+    margin-left: 10px;
+}
+
+.managersWrap{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.managersImage{
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.555);
+}
+
+.manager{
+    margin: 50px;
+}
+
+.managers h1{
+    font-size: 55px;
+    line-height: 130%;
+}
+
+.name{
+    font-family: 'Rubik';
+    font-size: 20px;
+    margin: 10px 0 10px 0;
+}
+
+.departament{
+    font-family: 'Poppins';
+    font-size: 16px;
+    color: #626262;
+    margin: 0 0 30px 0;
+}
+
+.line{
+    border-bottom: 3px solid #EE7203; ;
+    border-radius: 20px;
+    width: 30%;
+}
+
+.three{
+    position: absolute;
+    right: 0;
+    top: 50px;
+}
+
+.santa{
+    position: absolute;
+    right: 0;
+    top: 670px;
+}
+
+.gifts{
+    position: absolute;
+    right: 0;
+    top: 700px;
+}
+
+.snowMan{
+    position: absolute;
+    right: 0;
+    top: 800px;
+}

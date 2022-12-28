@@ -1,0 +1,16 @@
+[{
+    "name":"Алексей",
+    "surname":"Выродов",
+    "congratulations":"",
+    "assistant": false,
+    "departament":"Директор ПБО",
+    "path": "virodov"
+},
+{
+    "name":"Антонина",
+    "surname":"Филипова",
+    "congratulations":"",
+    "assistant": false,
+    "departament":"Отдел кадров",
+    "path":"virodov"
+}]

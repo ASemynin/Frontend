@@ -1,0 +1,64 @@
+.targets {
+    padding: 220px;   
+}
+
+.targetsView{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.targetItem{
+    width: 350px;
+    height: 150px;
+    color: white;
+    display:flex;    
+    background: #222222;
+    position: relative;
+    border-radius: 40px 0 0 40px;
+    margin: 50px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.active{
+    background: rgb(124, 201, 117);
+    transition: 0.3s;
+}
+
+.text_wrapper .btn{
+    text-decoration: none;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.targetImg{
+    background: #EE7203;
+    padding: 35px;
+    position: absolute;
+    left:-15%;
+    top:25%;
+    border-radius: 50%;
+}
+
+.targetLabel{
+    border-radius: 40px 0px 0px 40px;
+    padding:10px;
+    text-align: left;
+}
+
+.targetLabel h3, h6{
+   padding-left: 30px;
+}
+
+.targetLabel h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    
+}
+
+.targetLabel h6 {
+    font-size: 12px;
+    margin: 0;
+}

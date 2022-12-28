@@ -1,0 +1,28 @@
+    .navigate{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px 120px 30px 120px;
+        background: rgb(255, 255, 255);
+    }
+    
+    .navWrap{
+        width: 100%;
+        margin-left: 20%;
+    }
+    
+    .navWrap ul{
+        display: flex;
+        align-items: center;
+    }
+    
+    .navWrap ul li{
+        text-decoration: none;
+        list-style-type: none;
+        margin-left: 40px;
+    }
+
+
+@media(max-width: 440px){
+
+}

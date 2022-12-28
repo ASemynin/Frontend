@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Николай",
+        "surname":"Иудин",
+        "congratulations":"",
+        "assistant": true,
+        "departament":"Департамент Люди",
+        "path":"iudin"
+    },
+    {
+        "name":"Ксения",
+        "surname":"Щепкина",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Люди",
+        "path":"schepkina"
+    },
+    {
+        "name":"Ирина",
+        "surname":"Миляева",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Люди",
+        "path":"schepkina"
+    },
+    {
+        "name":"Данила",
+        "surname":"Макаров",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Люди",
+        "path":"makarov"
+    }
+]

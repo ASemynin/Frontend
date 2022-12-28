@@ -1,0 +1,55 @@
+.landing {
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.targets_wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #222222;
+    height: inherit;
+    width: 40%;
+}
+
+.text_wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 20%;
+    color: white;
+}
+
+.text_wrapper h1{
+    font-size: 40px;
+}
+
+.text_wrapper h5{
+    font-size: 16px;
+}
+
+.btn{
+    padding: 21px 40px 21px 40px;
+    background-color: #EE7203;
+    border-radius: 10px;
+    font-size: 19px;
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.landing_video {
+    height: inherit;
+    width: 60%;
+    background-image: url("../../media/images/Intersect.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videoBtn{
+    cursor: pointer;
+}

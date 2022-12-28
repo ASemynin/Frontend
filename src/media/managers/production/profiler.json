@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Елизавета",
+        "surname":"Нефедова",
+        "congratulations":"",
+        "assistant": true,
+        "departament":"Департамент Производство",
+        "path":"nefedova"
+    },
+    {
+        "name":"Валерий",
+        "surname":"Усачев",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Производство",
+        "path":"usachev"
+    },
+    {
+        "name":"Юля",
+        "surname":"Орлова",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Производство",
+        "path":"orlova"
+    },
+    {
+        "name":"Павел",
+        "surname":"Буслов",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Производство",
+        "path":"buslov"
+    },
+    {
+        "name":"Сергей",
+        "surname":"Коротов",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Производство",
+        "path":"korotov"
+    }
+]

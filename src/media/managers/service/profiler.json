@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Ирина",
+        "surname":"Глушенкова",
+        "congratulations":"",
+        "assistant": true,
+        "departament":"Департамент Сервис",
+        "path":"glushenkova"
+    },
+    {
+        "name":"Мария",
+        "surname":"Мыхова",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Сервис",
+        "path":"mihova"
+    },
+    {
+        "name":"Арина",
+        "surname":"Максимова",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Сервис",
+        "path":"maksimova"
+    },
+    {
+        "name":"Алексей",
+        "surname":"Слесарев",
+        "congratulations":"",
+        "assistant": false,
+        "departament":"Департамент Сервис",
+        "path":"slesarev"
+    }
+]
